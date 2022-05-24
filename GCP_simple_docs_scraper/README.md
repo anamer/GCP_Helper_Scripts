@@ -7,6 +7,7 @@ Example: Do download DLP docs, go to DLP docs in your browser and paste a any do
          pyton3 parse_gcp_dos_by_topic.py https://cloud.google.com/dlp/docs/inspect-sensitive-text-api
   
 Sample files:
+  
   [DLP docs](https://link-url-here.org](https://github.com/anamer/GCP_Helper_Scripts/blob/main/GCP_simple_docs_scraper/SampleFile-dlp_gcp_doc_all_in-one.html))
   [Cloud Armor docs](https://github.com/anamer/GCP_Helper_Scripts/blob/main/GCP_simple_docs_scraper/armor_gcp_doc_all_in-one.html)
   
