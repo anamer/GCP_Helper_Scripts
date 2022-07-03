@@ -15,5 +15,5 @@ Sample files:
  
 Known Issue:
 * Docs are not consistent and thus, in some cases not all will be downloaded
-* Not all figure will be downloaded
+* Not all figures will be downloaded
 * Text format may vary
